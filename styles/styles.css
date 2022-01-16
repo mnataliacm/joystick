@@ -41,7 +41,7 @@ h6 { font-size: 1em; margin: 0%; text-decoration: underline;}
     color: #389fdb;}
 #hero img {
     position: absolute;
-    margin auto
+    margin: auto;
     width: 10vh;
     height: 10vh;
     top: 45%;}
@@ -253,7 +253,7 @@ nav {
     background: #0034a3;
     color: white}
 .fa-instagram {
-    background: linear-gradient(to lft bottom, #E1306C, #833AB4, #405DE6); color: white;}
+    background: linear-gradient(to left bottom, #E1306C, #833AB4, #405DE6); color: white;}
 .fa-linkedin {background: #0A66C2; color: white;}
 .fa-github {background: black; color: white;}
 /*-------------------------------------------------------------------------------------------*/
